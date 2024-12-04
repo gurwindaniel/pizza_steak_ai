@@ -27,3 +27,6 @@ pip install -r requirments.txt
 streamlit run app.py
 ```
 6. Upload the steak or pizza image for predictions
+
+Pizza_steak.h5 is the custom model.
+Pizza_steak_fine.h5 is the fine tuned model from MobileNetV2 (transfer learning)
